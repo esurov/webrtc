@@ -1,4 +1,4 @@
-module github.com/pion/webrtc/v3
+module github.com/esurov/webrtc/v3
 
 go 1.12
 
